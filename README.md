@@ -15,6 +15,8 @@ mvn spring-boot:run
 
 Rest endpoint details:
 
+Database Tables: a) Survivers b)surviver_resources
+
 A)	Add survivors to the database
 
 Resource Payload: 
